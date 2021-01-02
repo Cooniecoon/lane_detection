@@ -1,0 +1,2 @@
+model_checkpoint_path: "line_seg.weight"
+all_model_checkpoint_paths: "line_seg.weight"

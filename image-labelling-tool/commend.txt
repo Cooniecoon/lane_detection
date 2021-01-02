@@ -1,0 +1,5 @@
+python -m image_labelling_tool.flask_labeller --images_pat=C:/turtlebot/line_data/image/*.jpg
+
+
+trees - 흰색 : 64
+stem - 노란색 : 255
